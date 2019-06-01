@@ -1,0 +1,20 @@
+.table-outer{
+	margin: auto;
+	overflow: scroll;
+	width: 80%;
+	height: 400px;
+}
+
+.table-body{
+	width: 80%;
+	height: 400px;
+	margin: auto;
+	overflow: scroll;
+}
+
+.purchase{
+	width:80%
+	margin: auto;
+	text-align: center;
+	margin-top: 12px
+}
